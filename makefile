@@ -1,7 +1,7 @@
 # main compiler
 CC := gcc
 
-TARGET1 := gpioRead
+TARGET1 := gpio-irq
 
 all: $(TARGET1)
 
